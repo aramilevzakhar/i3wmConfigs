@@ -1,4 +1,4 @@
-# this is i3wmConfigs
+# i3wmConfigs
 ### install:
 ```
 mkdir .config/{i3,i3status}
