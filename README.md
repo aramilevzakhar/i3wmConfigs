@@ -1,5 +1,5 @@
 # this is i3wmConfigs
-### install
+### install:
 ```
 mkdir .config/{i3,i3status}
 mv i3.conf ~/.config/i3/config
